@@ -6,7 +6,7 @@
  * @date      2019年7月23日 下午4:03:18
  * @link      git@github.com:yuanmingtao/l1.git
  */
-namespace Oreilly\ModernPHP\Url;
+namespace yuanmingtao\ModernPHP\Url;
 class Scanner
 {
     /**
