@@ -1,5 +1,5 @@
 {
-	"name" : "modernphp/scanner",
+	"name" : "yuanmingtao/scanner",
 	"description" : "Scan URLs from a CSV file and report inaccessible URLs",
 	"keywords" : [
 		"url",
@@ -29,7 +29,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Oreilly\\ModernPHP\\" : "src/"
+			"yuanmingtao\\ModernPHP\\" : "src/"
 		}
 	}
 }
