@@ -24,6 +24,7 @@ class Scanner
     public function __construct(array $urls)
     {
         $this->urls = $urls;
+        $this->httpClient = new \GuzzleHttp\Client();
     }
     /**
      * Get invalid URLs
